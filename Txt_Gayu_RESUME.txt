@@ -1,0 +1,107 @@
+S R GAYATHRI
++91 8838753955 | Chennai | gayathrisr05@gmail.com | LinkedIn | GitHub
+
+CAREER OBJECTIVE:
+Aspiring AI and Machine Learning enthusiast with a foundation in Data Science. Eager to apply my skills to
+real-world business challenges and continuously upskill in intelligent automation and cloud-based data
+solutions.
+
+EDUCATION
+B.E. - Electronics and Communication Engineering
+with a minor degree in Data Science
+Rajalakshmi Engineering College
+Higher Secondary Education, CBSE
+DAV School, Adambakkam
+Secondary Education, CBSE
+DAV School, Adambakkam
+
+2021-2025
+CGPA: 9.57
+2020-2021
+Percentage: 97%
+2018-2019
+Percentage: 95%
+
+INTERNSHIP AND TRAININGS:
+• Excelerate
+Data Analyst | Online | 1 month
+Analyzed marketing data using data visualization tools (Matplotlib, Power BI) to provide cost-saving
+recommendations, leading to a 15% reduction in campaign expenses.
+• Tessolve
+Embedded and IoT | Chennai | 2 weeks
+Gained hands-on experience with MSP430 microcontrollers, programmed using Energia IDE, and designed
+circuits including keypad interfacing and ADC. Worked with sensors in Tinkercad and established IoT
+connections using ThingSpeak.
+• National Small Industries Corporation Limited
+Embedded and IoT | Chennai | 1 week
+Gained practical experience in embedded systems, including constructing a basic 5V power supply circuit.
+
+PROJECTS:
+• Voice of Care - A Personalized AI Voice Assistant Developed an offline voice assistant using Raspberry Pi
+and LLaMA 3.2 LLM to deliver real-time, emotionally supportive conversations. Integrated personalized
+speech synthesis to mimic a loved one’s voice, ensuring fully local processing for enhanced privacy and
+connection.
+Raspberry Pi | Piper | Whisper | Home Assistant
+Git Hub : https://github.com/Gayuoff/Voice-of-Care
+• AI Powered Typing Tutor Developed an AI-powered Typing Tutor with LSTM networks to identify
+common typing inaccuracies. Created targeted exercises for frequent mistakes and designed static website
+prototype in Figma.
+LSTM | TensorFlow | Figma
+Git Hub: https://github.com/Gayuoff/AI-PoweredTypingTutor
+
+• Smart IoT Chair Developed an IoT enabled chair prototype that tracks user behaviour and physiological
+metrics to promote healthier sitting habits in contemporary workplaces by giving notifications. ESP 32 |
+Load cell | MAX30100 | BH1750 | Ultrasonic | Figma
+Git Hub: https://github.com/Gayuoff/Smart_IOT_Chair
+
+CERTIFICATIONS:
+• Microsoft- Azure Fundamentals ( AZ-900)
+Microsoft Azure AI Fundamentals (AI-900)
+Wipro- Talent NeXT Java Certification
+PWC - Cloud and Digital Launchpad
+NPTEL - “ Industry 4.0 and Industrial IoT” & “ AI: Search Methods for Problem Solving”
+CISCO Networking academy - introduction to Cyber Security
+Infosys Spring Board - Internet of Things 101
+
+TECHNICAL SKILLS:
+• Python
+• Cloud Fundamentals
+• Machine Learning
+• IoT
+• SQL
+• Java
+
+SOFT SKILLS:
+Verbal Communication
+Adaptability
+Time Management
+Team Collaboration
+
+ACHIEVEMENTS:
+Secured All India Topper position in NPTEL courses “Industry 4.0 and IIoT,” “Sensors & Actuators,” and
+“Business Intelligence & Analytics”
+Recognized as Department Topper in Semesters 2, 3, and 5
+Awarded Third Prize in the department level IQUEST’23 IPC contest
+Participated in Accenture Innovation Challenge 2023
+Participated in L&T Edutech National Talentfest SHRUJANA’23
+Participated in MSME Women Idea Hackathon 2023
+
+VOLUNTEERING EXPERIENCE:
+Conducted a project expo for school students during the Summer School Camp 2024
+EventCo-ordinator forthe symposium REVOTRONICS’23
+
+HOBBIES AND INTERESTS:
+• Art and crafts
+• Playing badminton
+• Listening to podcasts and music
+• Interest in spaceexploration and technology
+
+MEMBERSHIPS:
+IEEE - APS society
+SEDS REC
+
+CONFERENCES ATTENDED:
+THINKEDU’24EducationalConclave | IndianExpress
+Digital India RISC V Symposium | IIT Madras
+
+
